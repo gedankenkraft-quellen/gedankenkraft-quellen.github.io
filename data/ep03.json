@@ -1,0 +1,61 @@
+{
+ "slug": "03-dein-schatten-carl-jung",
+ "number": 3,
+ "title": "Dein Schatten lenkt dein Leben: Carl Jung und das, was du verdrängst",
+ "youtube_url": "",
+ "updated": "2026-10-29",
+ "summary": "Jungs Idee vom Schatten, erklärt mit Alltagsbeispielen und mit klarer Abgrenzung: keine Therapie, keine Freigabe für schädliches Verhalten.",
+ "sources": [
+  {
+   "id": "S1",
+   "author": "Carl Gustav Jung",
+   "work": "Aion. Untersuchungen zur Symbolgeschichte (Gesammelte Werke 9/II) und Zwei Schriften über Analytische Psychologie (GW 7)",
+   "edition": "Originalwerke, nicht gemeinfrei. Wir geben die Ideen in eigenen Worten wieder, ohne Zitate.",
+   "url": "https://en.wikipedia.org/wiki/Shadow_(psychology)",
+   "status": "urheberrechtlich geschützt (Jung starb 1961)"
+  }
+ ],
+ "claims": [
+  {
+   "kind": "lehre",
+   "text": "Jung hat das Konzept des Schattens entwickelt und unter anderem in Aion sowie in den Zwei Schriften über Analytische Psychologie behandelt.",
+   "source": "S1",
+   "locator": "Aion; Zwei Schriften (nach Übersicht auf Wikipedia, Stichwort Shadow)",
+   "verified": true
+  },
+  {
+   "kind": "lehre",
+   "text": "Der Schatten kann auf die Umwelt projiziert werden. Bleibt die Projektion unbewusst, wirkt der Schatten ungehindert weiter.",
+   "source": "S1",
+   "locator": "Übersicht auf Wikipedia, Stichwort Shadow",
+   "verified": true
+  },
+  {
+   "kind": "lehre",
+   "text": "Jung stellt der Persona, der sozialen Maske, den Schatten gegenüber.",
+   "source": "S1",
+   "locator": "Übersicht auf Wikipedia, Stichwort Shadow",
+   "verified": true
+  },
+  {
+   "kind": "lehre",
+   "text": "Nach Jung führt die erste Stufe der Entwicklung zur Erfahrung des Schattens. Die Begegnung mit dem Schatten ist zentral für die Individuation.",
+   "source": "S1",
+   "locator": "Übersicht auf Wikipedia, Stichwort Shadow",
+   "verified": true
+  },
+  {
+   "kind": "deutung",
+   "text": "Die Alltagsübungen und die Beschreibung, woran man den eigenen Schatten erkennt, sind unsere Deutung und kein Teil von Jungs Werk."
+  },
+  {
+   "kind": "deutung",
+   "text": "Die Folge ist keine Therapie und keine Anleitung zur Selbstdiagnose."
+  },
+  {
+   "kind": "szene",
+   "text": "Alle Personen und Alltagsszenen in der Folge sind frei erfunden und stehen für keinen realen Fall."
+  }
+ ],
+ "caveat": "Die Folge ersetzt keine psychologische oder ärztliche Beratung. Bei seelischer Belastung such bitte professionelle Hilfe."
+}

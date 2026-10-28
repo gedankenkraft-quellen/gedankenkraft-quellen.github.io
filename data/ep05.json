@@ -1,0 +1,47 @@
+{
+ "slug": "05-auftrag-vor-dem-einschlafen-joseph-murphy",
+ "number": 5,
+ "title": "Gib deinem Unterbewusstsein einen Auftrag, bevor du einschläfst: Joseph Murphy",
+ "youtube_url": "",
+ "updated": "2026-10-29",
+ "summary": "Murphys Idee vom Unterbewusstsein als Abendübung, in eigenen Worten und ohne Heilversprechen.",
+ "sources": [
+  {
+   "id": "S1",
+   "author": "Wikipedia",
+   "work": "Joseph Murphy (Autor) und The Power of Your Subconscious Mind",
+   "edition": "Online-Artikel, abgerufen am 29.10.2026",
+   "url": "https://en.wikipedia.org/wiki/Joseph_Murphy_(author)",
+   "status": "Sekundärquelle"
+  }
+ ],
+ "claims": [
+  {
+   "kind": "lehre",
+   "text": "Joseph Murphy lebte von 1898 bis 1981. Sein bekanntestes Buch, The Power of Your Subconscious Mind, erschien erstmals 1963.",
+   "source": "S1",
+   "locator": "Biografie",
+   "verified": true
+  },
+  {
+   "kind": "lehre",
+   "text": "Murphy lehrt, dass das Unterbewusstsein auf Gefühl, Wiederholung und innere Annahme reagiert und dass die Zeit vor dem Einschlafen günstig ist.",
+   "source": "S1",
+   "locator": "Buch nicht online einsehbar, Fundstelle fehlt",
+   "verified": false
+  },
+  {
+   "kind": "deutung",
+   "text": "Der Abend-Auftrag als kurzer Satz in der Gegenwart ist unsere praktische Ausformung der Idee."
+  },
+  {
+   "kind": "deutung",
+   "text": "Die Folge verspricht keine Heilung und keine Erfüllung von Wünschen."
+  },
+  {
+   "kind": "szene",
+   "text": "Alle Personen und Alltagsszenen in der Folge sind frei erfunden und stehen für keinen realen Fall."
+  }
+ ],
+ "caveat": "Die Folge ersetzt keine ärztliche oder psychologische Behandlung. Bei Schlafproblemen oder Belastung such bitte medizinischen Rat."
+}

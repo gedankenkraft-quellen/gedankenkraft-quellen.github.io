@@ -1,0 +1,65 @@
+{
+ "slug": "02-der-fuerst",
+ "number": 2,
+ "title": "Der Fürst: Wer im Raum wirklich Macht hat",
+ "youtube_url": "",
+ "updated": "2026-10-29",
+ "summary": "Machiavellis Der Fürst als Psychologie des Alltags: was er über Furcht, Schein und Gewohnheit beobachtet und was daraus für innere Unabhängigkeit folgt.",
+ "sources": [
+  {
+   "id": "S1",
+   "author": "Niccolò Machiavelli",
+   "work": "Der Fürst (Il Principe)",
+   "edition": "englische Übersetzung von W. K. Marriott, Projekt Gutenberg Nr. 1232",
+   "url": "https://www.gutenberg.org/ebooks/1232",
+   "status": "gemeinfrei"
+  }
+ ],
+ "claims": [
+  {
+   "kind": "lehre",
+   "text": "Machiavelli beschreibt Menschen im Allgemeinen als undankbar und wankelmütig. Sie bieten Treue, solange es gut geht, und wenden sich in der Not ab. Deshalb hält er Furcht für verlässlicher als Liebe, solange der Herrscher Hass vermeidet.",
+   "source": "S1",
+   "locator": "Kapitel 17",
+   "verified": true
+  },
+  {
+   "kind": "lehre",
+   "text": "Machiavelli hält fest, dass Menschen mehr nach dem Schein als nach eigener Erfahrung urteilen: Viele sehen, wie ein Fürst wirkt, wenige erkennen, was er ist.",
+   "source": "S1",
+   "locator": "Kapitel 18",
+   "verified": true
+  },
+  {
+   "kind": "lehre",
+   "text": "Machiavelli beschreibt, dass ein ererbter Herrschaftsbereich leichter zu halten ist, weil die Menschen an die Herrscherfamilie gewöhnt sind.",
+   "source": "S1",
+   "locator": "Kapitel 2",
+   "verified": true
+  },
+  {
+   "kind": "lehre",
+   "text": "Machiavelli stellt fest, dass Menschen ihre Herrscher bereitwillig wechseln, weil sie auf Besserung hoffen, und dass die Natur des Volkes veränderlich ist.",
+   "source": "S1",
+   "locator": "Kapitel 3 und 6",
+   "verified": true
+  },
+  {
+   "kind": "deutung",
+   "text": "Die Übertragung auf Familie, Betrieb und Freundeskreis ist unsere Deutung. Machiavelli schreibt über Fürsten und Staaten."
+  },
+  {
+   "kind": "deutung",
+   "text": "Die Lesart, dass innere Unabhängigkeit die stärkste Stellung ist, ist unsere Deutung und keine Aussage Machiavellis."
+  },
+  {
+   "kind": "deutung",
+   "text": "Die Folge ist keine Anleitung zur Manipulation."
+  },
+  {
+   "kind": "szene",
+   "text": "Alle Personen und Alltagsszenen in der Folge sind frei erfunden und stehen für keinen realen Fall."
+  }
+ ],
+ "caveat": "Die Folge ist ein eigener Kommentar und keine Beratung."
+}

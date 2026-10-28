@@ -1,0 +1,54 @@
+{
+ "slug": "04-der-goldene-schluessel-emmet-fox",
+ "number": 4,
+ "title": "Der Goldene Schlüssel: Hör auf, an das Problem zu denken",
+ "youtube_url": "",
+ "updated": "2026-10-29",
+ "summary": "Emmet Foxs Goldener Schlüssel, in eigenen Worten erklärt: warum Ersetzen wirkt, wo Kämpfen versagt, und wie man es im Alltag übt.",
+ "sources": [
+  {
+   "id": "S1",
+   "author": "Wikipedia",
+   "work": "Emmet Fox",
+   "edition": "Online-Artikel, abgerufen am 29.10.2026",
+   "url": "https://en.wikipedia.org/wiki/Emmet_Fox",
+   "status": "Sekundärquelle"
+  }
+ ],
+ "claims": [
+  {
+   "kind": "lehre",
+   "text": "Emmet Fox wurde am 30. Juli 1886 in Cobh (Grafschaft Cork, Irland) geboren und starb am 13. August 1951 in Paris. Er war ein Lehrer der Neugeist-Bewegung (New Thought).",
+   "source": "S1",
+   "locator": "Biografie",
+   "verified": true
+  },
+  {
+   "kind": "lehre",
+   "text": "Der Goldene Schlüssel ist eine seiner bekanntesten Schriften.",
+   "source": "S1",
+   "locator": "Werkübersicht",
+   "verified": true
+  },
+  {
+   "kind": "lehre",
+   "text": "Fox lehrt, die Gedanken von der Schwierigkeit abzuwenden und auf Gott zu richten.",
+   "source": "S1",
+   "locator": "Primärtext noch nicht geprüft",
+   "verified": false
+  },
+  {
+   "kind": "deutung",
+   "text": "Die Erklärung, warum Ersetzen wirkt (der Geist hält nicht zwei Bilder zugleich, Aufmerksamkeit füttert das Problem), und die Übungen sind unsere Deutung."
+  },
+  {
+   "kind": "deutung",
+   "text": "Die Folge leugnet keine Tatsachen und ersetzt kein Handeln."
+  },
+  {
+   "kind": "szene",
+   "text": "Alle Personen und Alltagsszenen in der Folge sind frei erfunden und stehen für keinen realen Fall."
+  }
+ ],
+ "caveat": "Die Folge ist keine religiöse Unterweisung einer Kirche und keine Beratung."
+}
