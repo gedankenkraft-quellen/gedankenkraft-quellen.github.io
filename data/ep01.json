@@ -1,0 +1,22 @@
+{
+  "slug": "01-hoer-auf-zu-reagieren",
+  "number": 1,
+  "title": "Die höchste Form der Macht: Hör auf zu reagieren",
+  "youtube_url": "",
+  "updated": "2026-10-29",
+  "summary": "Zwischen Reiz und Antwort liegt ein Raum. Die Folge zeigt mit den Stoikern Epiktet und Marc Aurel, wie man ihn nutzt, und ergänzt das um eigene Alltagsübungen.",
+  "sources": [
+    {"id": "S1", "author": "Epiktet", "work": "Das Handbüchlein der Moral (Enchiridion)", "edition": "englische Übersetzung von Thomas Wentworth Higginson, Projekt Gutenberg", "url": "https://www.gutenberg.org/ebooks/45109", "status": "gemeinfrei"},
+    {"id": "S2", "author": "Marc Aurel", "work": "Selbstbetrachtungen (Meditations)", "edition": "englische Übersetzung, Projekt Gutenberg Nr. 2680", "url": "https://www.gutenberg.org/ebooks/2680", "status": "gemeinfrei"}
+  ],
+  "claims": [
+    {"kind": "lehre", "text": "Epiktet unterscheidet zwischen dem, was in unserer Macht liegt (Meinung, Absicht, Verlangen, Abneigung), und dem, was nicht darin liegt (Körper, Besitz, Ansehen, Amt).", "source": "S1", "locator": "Kapitel 1", "verified": true},
+    {"kind": "lehre", "text": "Epiktet lehrt, dass nicht die Dinge selbst Menschen beunruhigen, sondern die Urteile, die sie sich über die Dinge bilden.", "source": "S1", "locator": "Kapitel 5", "verified": true},
+    {"kind": "lehre", "text": "Marc Aurel hält fest, dass alle Unruhe und Verwirrung allein aus der inneren Meinung entsteht.", "source": "S2", "locator": "Buch 4, Abschnitt 3", "verified": true},
+    {"kind": "lehre", "text": "Marc Aurel hat seine Aufzeichnungen für sich selbst geschrieben.", "source": "S2", "locator": "Einleitung der Ausgabe", "verified": false},
+    {"kind": "deutung", "text": "Eine Erregung, die man nicht durch Aufmerksamkeit füttert, verliert an Kraft. Das ist unsere Deutung im Sinn des Gesetzes des Geistes, keine Aussage der beiden Stoiker."},
+    {"kind": "deutung", "text": "Die Übungen zur Wartezeit vor einer Antwort (zum Beispiel eine Stunde warten, bevor man auf eine Nachricht reagiert) sind eigene Vorschläge, keine Lehre eines Autors."},
+    {"kind": "szene", "text": "Alle Personen und Alltagsszenen in der Folge sind frei erfunden und stehen für keinen realen Fall."}
+  ],
+  "caveat": "Die Folge ist keine Therapie und ersetzt keine psychologische Beratung."
+}
